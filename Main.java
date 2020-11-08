@@ -7,6 +7,8 @@ public class Main{
     }
 
     public static int mySum(int [] array){
+        System.out.println("clse issue 1");
+        System.out.println("clse issue 1");
         int sum = 0;
         for(int i=0;i <array.length; i++){
             sum += array[i];
