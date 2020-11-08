@@ -11,6 +11,7 @@ public class Main{
         for(int i=0;i <array.length; i++){
             sum += array[i];
         }
+        System.out.println("add bug 1");
         return sum;
     }
 }
