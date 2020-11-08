@@ -5,6 +5,8 @@ public class Main{
         int[] array = {1,2,3,4,5,6};
         int sum = mySum(array);
         System.out.println(sum);
+        System.out.println("clse issue 1");
+        System.out.println("clse issue 1");
     }
 
     public static int mySum(int [] array){
