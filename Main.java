@@ -1,6 +1,6 @@
 public class Main{
     public static void main(String[] args) {
-        // 
+        //
         int[] array = {1,2,3,4,5,6};
         int sum = mySum(array);
     }
@@ -10,8 +10,6 @@ public class Main{
         for(int i=0;i <array.length; i++){
             sum += array[i];
         }
-        System.out.println("commit a");
-        System.out.println("commit b");
         return sum;
     }
 }
