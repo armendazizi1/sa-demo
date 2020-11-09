@@ -2,7 +2,6 @@ public class Main{
     public static void main(String[] args) {
         int[] array = {1,2,3,4,5,6};
         int sum = mySum(array);
-        System.out.println("add bug");
     }
 
     public static int mySum(int [] array){
