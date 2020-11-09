@@ -11,6 +11,7 @@ public class Main{
             sum += array[i];
         }
         System.out.println("commit a");
+        System.out.println("commit b");
         return sum;
     }
 }
