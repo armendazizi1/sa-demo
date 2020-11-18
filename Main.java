@@ -3,7 +3,7 @@ public class Main{
         //
         int[] array = {1,2,3,4,5,6};
         int sum = mySum(array);
-        System.out.println("buhahha")
+        System.out.println("what is this??")
     }
 
     public static int mySum(int [] array){
@@ -13,14 +13,5 @@ public class Main{
         }
         return sum;
     }
-    
-    
-    public static int test(int [] array){
-        int sum = 0;
-        for(int i=0;i <(array.length)/2; i++){
-            sum += array[i];
-            sum += array[i+4];
-        }
-        return sum;
-    }
+
 }
