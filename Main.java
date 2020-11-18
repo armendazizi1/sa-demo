@@ -12,4 +12,14 @@ public class Main{
         }
         return sum;
     }
+    
+    
+    public static int test(int [] array){
+        int sum = 0;
+        for(int i=0;i <(array.length)/2; i++){
+            sum += array[i];
+            sum += array[i+4];
+        }
+        return sum;
+    }
 }
