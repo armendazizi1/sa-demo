@@ -10,7 +10,7 @@ public class Main{
 
 
 
-        
+        System.out.println("just curios");
         int sum = 0;
         for(int i=0;i <array.length; i++){
             sum += array[i];
