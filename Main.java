@@ -5,6 +5,13 @@ public class Main{
         int sum = mySum(array);
 
         System.out.println("what is this??");
+        System.out.println("lalalla");
+        System.out.println("lalalla");
+        System.out.println("what is this?");
+        System.out.println("update check");
+        System.out.println("update check2");
+
+
     }
 
     public static int mySum(int [] array){
