@@ -4,20 +4,12 @@ public class Main{
         int[] array = {1,2,3,4,5,6};
         int sum = mySum(array);
 
-        System.out.println("what is this??");
-        System.out.println("lalalla");
-        System.out.println("lalalla");
-        System.out.println("what is this?");
-        System.out.println("update check");
-        System.out.println("update check2");
-        System.out.println("update check4");
-        System.out.println("update check4");
-        System.out.println("update check5");
-
-
     }
 
     public static int mySum(int [] array){
+        System.out.println("update check4");
+        System.out.println("update check4");
+        System.out.println("update check4");
         int sum = 0;
         for(int i=0;i <array.length; i++){
             sum += array[i];
