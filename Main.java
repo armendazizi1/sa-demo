@@ -15,6 +15,7 @@ public class Main{
         System.out.println("update check4");
         System.out.println("update check4");
         System.out.println("update check4");
+        System.out.println("update checkkkkkk");
         int sum = 0;
         for(int i=0;i <array.length; i++){
             sum += array[i];
