@@ -6,8 +6,10 @@ public class Main{
 
         System.out.println("what is this??");
         System.out.println("lalalla");
-        System.out.println("lalalla")
-        System.out.println("what is this?")
+        System.out.println("lalalla");
+        System.out.println("what is this?");
+        System.out.println("update check");
+                
     }
 
     public static int mySum(int [] array){
