@@ -3,6 +3,10 @@ public class Main{
         //
         int[] array = {1,2,3,4,5,6};
         int sum = mySum(array);
+
+        System.out.println("what is this??");
+        System.out.println("lalalla");
+        System.out.println("lalalla")
         System.out.println("what is this?")
     }
 
