@@ -6,15 +6,7 @@ public class Main{
     }
 
     public static int mySum(int [] array){
-
-
-
-
-<<<<<<< Updated upstream
-        System.out.println("just curious again");
-=======
-
->>>>>>> Stashed changes
+        
         int sum = 0;
         for(int i=0;i <array.length; i++){
             sum += array[i];
