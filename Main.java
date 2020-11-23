@@ -4,6 +4,7 @@ public class Main{
         int sum = mySum(array);
         System.out.println(sum);
         Test test = new Test();
+        System.out.println("this is a bug");
     }
 
     public static int mySum(int [] array){
