@@ -5,6 +5,8 @@ public class Main{
         int sum = mySum(array);
         //check closed pull request on update
         //check closed pull request on update pt.2
+        //check closed pull request on update pt.3
+
 
     }
 
