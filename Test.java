@@ -5,4 +5,8 @@ public class Test{
     something = 5;
   }
 
+  public String toString() {
+		return "Gotta keep on testin'";
+	}
+
 }
