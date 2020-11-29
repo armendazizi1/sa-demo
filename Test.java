@@ -4,7 +4,7 @@ public class Test{
 
   public Test() {
     something = 5;
-    test = "AAAAHHHH";
+    test = "I NEED SLEEP";
   }
 
   public String toString() {
