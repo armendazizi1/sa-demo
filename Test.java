@@ -5,6 +5,7 @@ public class Test{
   public Test() {
     something = 5;
     test = "I NEED SLEEP";
+    test = "I NEED TEA";
   }
 
   public String toString() {
