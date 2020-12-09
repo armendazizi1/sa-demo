@@ -9,7 +9,7 @@ public class Test{
   }
 
   public String toString() {
-		return "Gotta keep on testing";
+		return "Gotta keep on testing!";
 	}
 
 }
