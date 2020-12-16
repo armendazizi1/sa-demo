@@ -1667,6 +1667,36 @@ public class Main{
         System.out.println("bug");
         System.out.println("bug");
         System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");     System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");     System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+        System.out.println("bug");
+
+
 
 
 
